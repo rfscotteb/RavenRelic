@@ -34,8 +34,14 @@
     <Reference Include="NewRelic.Api.Agent">
       <HintPath>..\Binaries\x64\NewRelic.Api.Agent.dll</HintPath>
     </Reference>
+    <Reference Include="Raven.Abstractions">
+      <HintPath>..\Binaries\x64\Raven.Abstractions.dll</HintPath>
+    </Reference>
     <Reference Include="Raven.Client.Lightweight">
-      <HintPath>..\packages\RavenDB-Client.1.0.701\lib\net40\Raven.Client.Lightweight.dll</HintPath>
+      <HintPath>..\Binaries\x64\Raven.Client.Lightweight.dll</HintPath>
+    </Reference>
+    <Reference Include="Raven.Client.MvcIntegration">
+      <HintPath>..\Binaries\x64\Raven.Client.MvcIntegration.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.Composition" />

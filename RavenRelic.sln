@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenRelic", "RavenRelic\RavenRelic.csproj", "{8CC4FA2C-2D1B-47F2-9079-AF363E26D424}"
 EndProject
 Global
